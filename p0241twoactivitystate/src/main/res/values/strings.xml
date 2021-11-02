@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TwoActivityState</string>
+    <string name="text_for_first_button">Go to Activity Two</string>
+    <string name="simple_text_view">This is Activity Two</string>
+</resources>

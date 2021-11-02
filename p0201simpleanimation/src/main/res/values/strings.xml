@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleAnimation</string>
+    <string name="textview_title">TextView</string>
+    <string name="menu_alpha_title">alpha</string>
+    <string name="menu_scale_title">scale</string>
+    <string name="menu_translate_title">translate</string>
+    <string name="menu_rotate_title">rotate</string>
+    <string name="menu_combo_title">combo</string>
+</resources>

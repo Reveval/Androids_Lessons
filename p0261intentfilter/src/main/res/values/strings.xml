@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentFilter</string>
+    <string name="show_time_button_text">Show time</string>
+    <string name="show_date_button_text">Show date</string>
+    <string name="show_time_text">TextView</string>
+    <string name="show_date_text">TextView</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DynamicLayout</string>
+    <string name="simple_text_view">Simple Text View</string>
+    <string name="first_button_text">First Button</string>
+    <string name="second_button_text">Second Button</string>
+    <string name="third_button_text">Third Button</string>
+</resources>

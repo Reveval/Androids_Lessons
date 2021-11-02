@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IntentExtras</string>
+    <string name="input_your_name_text">Input your Name</string>
+    <string name="first_name_text">First Name</string>
+    <string name="last_name_text">Last Name</string>
+    <string name="submit_button_text">Submit</string>
+    <string name="view_activity_text_view">TextView</string>
+</resources>

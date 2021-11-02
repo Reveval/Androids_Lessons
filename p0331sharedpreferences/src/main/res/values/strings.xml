@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="button_save_text">Save</string>
+    <string name="button_load_text">Load</string>
+</resources>
